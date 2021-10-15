@@ -1,2 +1,3 @@
 # git-github
-Just a demo learning
+This is for educational purpose only
+
